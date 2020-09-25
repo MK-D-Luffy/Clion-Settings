@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="查询字段" />
+      <item value="Mapper Builder Assistant" />
       <item value="get Sql Segment" />
       <item value="Wrapper" />
       <item value="Mysql Data Truncation" />
@@ -49,13 +51,11 @@
       <item value="Dashboard" />
       <item value="configurers" />
       <item value="Web Mvc Configurer Composite" />
-      <item value="Composite" />
-      <item value="Path represents URL or has &quot;url:&quot; prefix:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="504" />
-        <entry key="ENGLISH" value="505" />
+        <entry key="CHINESE" value="506" />
+        <entry key="ENGLISH" value="506" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
