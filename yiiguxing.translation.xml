@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Sql Segment" />
       <item value="Wrapper" />
       <item value="Mysql Data Truncation" />
       <item value="All information about the sheet you are currently working on" />
@@ -50,7 +51,6 @@
       <item value="Web Mvc Configurer Composite" />
       <item value="Composite" />
       <item value="Path represents URL or has &quot;url:&quot; prefix:" />
-      <item value="{@link WebMvcConfigurer} has default methods (made * possible by a Java 8 baseline) and can be implemented directly without the * need for this adapter" />
     </histories>
     <option name="languageScores">
       <map>
