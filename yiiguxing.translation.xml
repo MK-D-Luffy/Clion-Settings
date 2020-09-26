@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compatible Fill Id" />
       <item value="Prohibition of full table deletion" />
       <item value="rawtypes" />
       <item value="查询字段" />
@@ -50,12 +51,11 @@
       <item value="Whitelabel Error View Configuration" />
       <item value="Path of the error controller." />
       <item value="Auto Configure Before" />
-      <item value="Dashboard" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="507" />
-        <entry key="ENGLISH" value="508" />
+        <entry key="CHINESE" value="508" />
+        <entry key="ENGLISH" value="509" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
