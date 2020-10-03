@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Docket" />
+      <item value="Contact" />
       <item value="Unsatisfied dependency" />
       <item value="compatible Fill Id" />
       <item value="Prohibition of full table deletion" />
@@ -49,13 +51,11 @@
       <item value="Include the stack trace attribute." />
       <item value="unmodifiable Map" />
       <item value="Series" />
-      <item value="Whitelabel Error View Configuration" />
-      <item value="Path of the error controller." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="509" />
-        <entry key="ENGLISH" value="510" />
+        <entry key="CHINESE" value="510" />
+        <entry key="ENGLISH" value="511" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
