@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot deserialize instance of `java.lang.Integer` out of START_ARRAY token;" />
       <item value="I Sql Injector" />
       <item value="Docket" />
       <item value="Contact" />
@@ -50,12 +51,11 @@
       <item value="Preserve Error Controller Target Class Post Processor" />
       <item value="include Stack Trace" />
       <item value="Include the stack trace attribute." />
-      <item value="unmodifiable Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="511" />
-        <entry key="ENGLISH" value="512" />
+        <entry key="CHINESE" value="512" />
+        <entry key="ENGLISH" value="513" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
