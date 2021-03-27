@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sorts the given range, using the given workspace array slice for temp storage when possible. This method is designed to be invoked from public methods (in class Arrays) after performing any necessary array bounds checks and expanding parameters into the required forms." />
+      <item value="Tim Sort" />
       <item value="Video" />
       <item value="Cannot deserialize instance of `java.lang.Integer` out of START_ARRAY token;" />
       <item value="I Sql Injector" />
@@ -49,13 +51,11 @@
       <item value="Nested" />
       <item value="Resolve any specific error views. By default this method delegates to" />
       <item value="Whitelabel" />
-      <item value="Preserve Error Controller Target Class Post Processor" />
-      <item value="include Stack Trace" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="513" />
-        <entry key="ENGLISH" value="514" />
+        <entry key="CHINESE" value="514" />
+        <entry key="ENGLISH" value="515" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
@@ -74,6 +74,7 @@
         <entry key="MARATHI" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="HMONG" value="1" />
+        <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="1" />
         <entry key="SLOVAK" value="1" />
         <entry key="UKRAINIAN" value="1" />
@@ -84,7 +85,7 @@
       </map>
     </option>
   </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
+  <component name="Cache">
+    <option name="lastTrimTime" value="1616805588533" />
   </component>
 </application>
