@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Rotate" />
       <item value="Returns an estimate of the number of remaining bytes that can be read (or skipped over) from this input stream without blocking by the next invocation of a method for this input stream. Returns 0 when the file position is beyond EOF. The next invocation might be the same thread or another thread. A single read or skip of this many bytes will not block, but may read or skip fewer bytes." />
       <item value="Mccloskey" />
       <item value="Mc Closkey" />
@@ -51,12 +52,11 @@
       <item value="Nested configuration if Jetty is being used." />
       <item value="Nested configuration if Tomcat is being used." />
       <item value="Nested configuration if Netty is being used." />
-      <item value="Upgrade Protocol" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="516" />
-        <entry key="ENGLISH" value="517" />
+        <entry key="CHINESE" value="517" />
+        <entry key="ENGLISH" value="518" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
