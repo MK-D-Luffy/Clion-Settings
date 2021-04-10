@@ -1,17 +1,23 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="D:/Projects/JavaProjects/Develop" startUpFlag="FIRST" />
     <entry projectPath="D:/Projects/JavaProjects/JavaDevelop" startUpFlag="FIRST" />
     <entry projectPath="D:/Projects/JavaProjects/Javaweb" startUpFlag="FIRST" />
     <entry projectPath="D:/Projects/JavaProjects/MyBatis-Study" startUpFlag="FIRST" />
     <entry projectPath="D:/Projects/JavaProjects/MyBatisplus-Study" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/JavaProjects/My_Java_Workspace" startUpFlag="FIRST" />
     <entry projectPath="D:/Projects/JavaProjects/SSM-CRUD" startUpFlag="FIRST" />
     <entry projectPath="D:/Projects/JavaProjects/SSM-Template" startUpFlag="FIRST" />
     <entry projectPath="D:/Projects/JavaProjects/Spring-Study" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/JavaProjects/SpringCloud-Test" startUpFlag="FIRST" />
     <entry projectPath="D:/Projects/JavaProjects/SpringMVC-Study" startUpFlag="FIRST" />
     <entry projectPath="D:/Projects/JavaProjects/demo" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/JavaProjects/guli-parent" startUpFlag="FIRST" />
     <entry projectPath="D:/Projects/JavaProjects/jedis" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/JavaProjects/labs-parent" startUpFlag="FIRST" />
     <entry projectPath="D:/Projects/JavaProjects/spring-annotation" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/JavaProjects/spring-boot-study" startUpFlag="FIRST" />
     <entry projectPath="D:/Projects/JavaProjects/springmvc-annotation" startUpFlag="FIRST" />
     <entry projectPath="D:/develop/maven-project/IdeaLearningProject" startUpFlag="FIRST" />
     <entry projectPath="D:/develop/maven-project/servlet3.0" startUpFlag="FIRST" />
